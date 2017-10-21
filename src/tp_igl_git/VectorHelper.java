@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package TP_IGL_Git;
+package tp_igl_git;
 
 import java.util.function.Function;
 
@@ -14,7 +14,7 @@ import java.util.function.Function;
  */
 public class VectorHelper {
     
-    static final private int TAILLETAB=50;
+    static final public int TAILLETAB=50;
     
     /**
      * Rôle: Trie un tableau d'entiers
