@@ -7,14 +7,14 @@ package tp_igl_git;
 
 import java.util.function.Function;
 
-
+// I added this comment to see the difference Diff
 /**
  *
  * @author chemsou
  */
 public class VectorHelper {
     
-    static final public int TAILLETAB=50;
+    static final public int TAILLETAB=55;
     
     /**
      * Rôle: Trie un tableau d'entiers
