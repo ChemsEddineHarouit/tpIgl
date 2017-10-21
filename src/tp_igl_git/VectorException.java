@@ -13,7 +13,7 @@ public class VectorException extends Exception {
     
     static public String getMassage()
     {
-        int a;
+        int c;
         return  " Error 0x1 : Vecteurs de taille differentes" ;
         
     }
