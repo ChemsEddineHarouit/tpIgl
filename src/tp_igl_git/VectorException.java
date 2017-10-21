@@ -14,6 +14,7 @@ public class VectorException extends Exception {
     static public String getMassage()
     {
         int t;
+        boolean falseBool=true;// :D
         return  " Error 0x1 : Vecteurs de taille differentes" ;
         
     }
