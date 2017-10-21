@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tp_igl_git;
+package TP_IGL_Git;
 
 /**
  *
@@ -13,6 +13,6 @@ public class VectorException extends Exception {
     
     static public String getMassage()
     {
-        return  " Error 0x1 : Vecteurs de taille differentes" ;
+        return  " Error 0x1Vecteurs de taille differentes" ;
     }
 }
